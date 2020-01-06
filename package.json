@@ -1,9 +1,9 @@
 {
-  "name": "php-array-parser",
-  "version": "1.0.1",
+  "name": "@jitb/php-array-parser",
+  "version": "1.0.0",
   "description": "Parse a PHP array.",
   "main": "index.js",
-  "repository": "git@github.com:rmariuzzo/php-array-parser.git",
+  "repository": "git@github.com:jack-in-the-box/php-array-parser.git",
   "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",
   "license": "MIT",
   "dependencies": {
