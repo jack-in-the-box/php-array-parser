@@ -40,7 +40,7 @@ function parseValue(expr) {
     case 'string':
       return expr.value
     case 'number':
-      return parseInt(expr.value, 10)
+      return parseFloat(expr.value, 10)
     case 'boolean':
       return expr.value
     default:
